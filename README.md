@@ -8,6 +8,7 @@
 [![NAudio](https://img.shields.io/badge/Audio-NAudio-orange)](https://github.com/naudio/NAudio)
 [![TagLib](https://img.shields.io/badge/Metadata-TagLibSharp-yellow)](https://github.com/mono/taglib-sharp)
 
+**📄 Лицензии сторонних библиотек:** [ThirdPartyNotices.txt](ThirdPartyNotices.txt)
 ---
 
 ## 📖 Описание
